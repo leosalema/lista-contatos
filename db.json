@@ -1,0 +1,279 @@
+{
+  "contatos": [
+    {
+      "id": 2,
+      "nome": "Bruna Pires",
+      "canal": "e-mail",
+      "valor": "bruna.pires@pires.com",
+      "obs": ""
+    },
+    {
+      "id": 3,
+      "nome": "Carla Porta",
+      "canal": "Telefone Celular",
+      "valor": "(21)99875-4321",
+      "obs": "Ligar fora do horário comercial"
+    },
+    {
+      "id": 4,
+      "nome": "Davi Antunes",
+      "canal": "Telefone Celular",
+      "valor": "(21)99879-8765",{ "contatos": [
+        {
+            "id": 1,
+            "nome": "Altair Junqueira",
+            "canal": "Telefone Celular",
+            "valor": "(21)99876-5432",
+            "obs": "Ligar depois das 10:00"
+        },
+        {
+            "id": 2,
+            "nome": "Bruna Pires",
+            "canal": "e-mail",
+            "valor": "bruna.pires@pires.com",
+            "obs": ""
+        },
+        {
+            "id": 3,
+            "nome": "Carla Porta",
+            "canal": "Telefone Celular",
+            "valor": "(21)99875-4321",
+            "obs": "Ligar fora do horário comercial"
+        },
+        {
+            "id": 4,
+            "nome": "Davi Antunes",
+            "canal": "Telefone Celular",
+            "valor": "(21)99879-8765",
+            "obs": "Mandar mensagem primeiro"
+        },
+        {
+            "id": 5,
+            "nome": "Elisa Campos",
+            "canal": "e-mail",
+            "valor": "(21)99876-5432",
+            "obs": "Ligar depois das 10:00"
+        },
+        {
+            "id": 6,
+            "nome": "Carlos Guimaraes",
+            "canal": "Telefone Celular",
+            "valor": "(21)99877-6543",
+            "obs": ""
+        },
+        {
+            "id": 7,
+            "nome": "Frederico Carvalho",
+            "canal": "Telefone Celular",
+            "valor": "(21)99878-7654",
+            "obs": "Comercial não atende fins de semana"
+        },
+        {
+            "id": 8,
+            "nome": "Bruno Rodrigues",
+            "canal": "e-mail",
+            "valor": "brodrigues@exemplo.com",
+            "obs": ""
+        },
+        {
+            "id": 9,
+            "nome": "Hiago Silva",
+            "canal": "Telefone Celular",
+            "valor": "(21)99871-2345",
+            "obs": ""
+        },
+        {
+            "id": 10,
+            "nome": "Helio Fernandes",
+            "canal": "Telefone Celular",
+            "valor": "(21)99845-1234",
+            "obs": ""
+        },
+        {
+            "id": 11,
+            "nome": "Claudia Vizeu",
+            "canal": "e-mail",
+            "valor": "claudinhavizeu@globo.net",
+            "obs": ""
+        },
+        {
+            "id": 12,
+            "nome": "Deise Carvalho",
+            "canal": "Telefone Celular",
+            "valor": "(21)99888-5647",
+            "obs": "Esposa do Hiago"
+        },
+        {
+            "id": 13,
+            "nome": "João Peres",
+            "canal": "e-mail",
+            "valor": "peresjoao@exemplo.com",
+            "obs": ""
+        },
+        {
+            "id": 14,
+            "nome": "Daniel Figueredo",
+            "canal": "e-mail",
+            "valor": "figueredo.daniel@aqui.com",
+            "obs": ""
+        },
+        {
+            "id": 15,
+            "nome": "Fernando Junqueira",
+            "canal": "Telefone Celular",
+            "valor": "(21)99871-3432",
+            "obs": ""
+        },
+        {
+            "id": 16,
+            "nome": "Amanda Silva",
+            "canal": "e-mail",
+            "valor": "amanda@silvaesilva.com",
+            "obs": "e-mail empresarial"
+        },
+        {
+            "id": 17,
+            "nome": "Euler Barbosa",
+            "canal": "Telefone Celular",
+            "valor": "(21)99872-6785",
+            "obs": "Só mensagens"
+        },
+        {
+            "id": 18,
+            "nome": "Amado de Jesus",
+            "canal": "e-mail",
+            "valor": "jesusamado@gmail.net",
+            "obs": ""
+        },
+        {
+            "id": 19,
+            "nome": "Denis Santo",
+            "canal": "e-mail",
+            "valor": "santodenis@yahoo.bis",
+            "obs": ""
+        },
+        {
+            "id": 20,
+            "nome": "Fernanda Antues",
+            "canal": "Telefone Celular",
+            "valor": "(21)99872-8659",
+            "obs": "Vendedora"
+        }
+    ]
+}
+      "obs": "Mandar mensagem primeiro"
+    },
+    {
+      "id": 5,
+      "nome": "Elisa Campos",
+      "canal": "e-mail",
+      "valor": "(21)99876-5432",
+      "obs": "Ligar depois das 10:00"
+    },
+    {
+      "id": 6,
+      "nome": "Carlos Guimaraes",
+      "canal": "Telefone Celular",
+      "valor": "(21)99877-6543",
+      "obs": ""
+    },
+    {
+      "id": 7,
+      "nome": "Frederico Carvalho",
+      "canal": "Telefone Celular",
+      "valor": "(21)99878-7654",
+      "obs": "Comercial não atende fins de semana"
+    },
+    {
+      "id": 8,
+      "nome": "Bruno Rodrigues",
+      "canal": "e-mail",
+      "valor": "brodrigues@exemplo.com",
+      "obs": ""
+    },
+    {
+      "id": 9,
+      "nome": "Hiago Silva",
+      "canal": "Telefone Celular",
+      "valor": "(21)99871-2345",
+      "obs": ""
+    },
+    {
+      "id": 10,
+      "nome": "Helio Fernandes",
+      "canal": "Telefone Celular",
+      "valor": "(21)99845-1234",
+      "obs": ""
+    },
+    {
+      "id": 11,
+      "nome": "Claudia Vizeu",
+      "canal": "e-mail",
+      "valor": "claudinhavizeu@globo.net",
+      "obs": ""
+    },
+    {
+      "id": 12,
+      "nome": "Deise Carvalho",
+      "canal": "Telefone Celular",
+      "valor": "(21)99888-5647",
+      "obs": "Esposa do Hiago"
+    },
+    {
+      "id": 13,
+      "nome": "João Peres",
+      "canal": "e-mail",
+      "valor": "peresjoao@exemplo.com",
+      "obs": ""
+    },
+    {
+      "id": 14,
+      "nome": "Daniel Figueredo",
+      "canal": "e-mail",
+      "valor": "figueredo.daniel@aqui.com",
+      "obs": ""
+    },
+    {
+      "id": 15,
+      "nome": "Fernando Junqueira",
+      "canal": "Telefone Celular",
+      "valor": "(21)99871-3432",
+      "obs": ""
+    },
+    {
+      "id": 16,
+      "nome": "Amanda Silva",
+      "canal": "e-mail",
+      "valor": "amanda@silvaesilva.com",
+      "obs": "e-mail empresarial."
+    },
+    {
+      "id": 17,
+      "nome": "Euler Barbosa",
+      "canal": "Telefone Celular",
+      "valor": "(21)99872-6785",
+      "obs": "Só mensagens"
+    },
+    {
+      "id": 19,
+      "nome": "Denis Santo",
+      "canal": "e-mail",
+      "valor": "santodenis@yahoo.bis",
+      "obs": ""
+    },
+    {
+      "id": 20,
+      "nome": "Fernanda Antues",
+      "canal": "Telefone Celular",
+      "valor": "(21)99872-8659",
+      "obs": "Vendedora"
+    },
+    {
+      "id": 21,
+      "nome": "Leonardo Salema",
+      "canal": "Telefone Celular",
+      "valor": "(24)99297-3849",
+      "obs": "Qualquer coisa que eu queira escrever"
+    }
+  ]
+}
